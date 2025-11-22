@@ -2,12 +2,12 @@
 
 Community-maintained Homebrew tap for [`cmdX`](https://github.com/YONN2222/cmdX). A macOS utility that adds Cmd+X cut functionality to Finder.
 
-## Install
+## Installation
 
 First, add the tap:
 
 ```bash
-brew tap your-github-username/cmdx
+brew tap thedavidwenk/homebrew-cmdx
 ```
 
 Then install cmdX:
@@ -17,6 +17,8 @@ brew install --cask cmdx
 ```
 
 ## Notes
-  •	This tap is maintained by @thedavidwenk￼, not officially affiliated with the cmdX author.
+  •	This tap is maintained by @thedavidwenk with the author’s permission.
+  
+  • macOS may show a Gatekeeper warning on first launch because the app is not notarized.
 
   •	cmdX may require Accessibility permissions under System Settings → Privacy & Security → Accessibility.
