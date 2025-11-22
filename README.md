@@ -1,6 +1,6 @@
 # homebrew-cmdx
 
-Community-maintained Homebrew tap for [`cmdX`](https://github.com/YONN2222/cmdX). A macOS utility that adds Cmd+X cut functionality to Finder.
+Community-maintained Homebrew tap for [`cmdX`](https://github.com/YONN2222/cmdX). A macOS app that adds Cmd+X cut functionality to Finder.
 
 ## Installation
 
